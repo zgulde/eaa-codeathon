@@ -2,21 +2,28 @@
 <html lang="en">
   <head>
     <meta charset="UTF-8"/>
-    <title>Document</title>
-	<style>
-	  #map {
-		  width: 80%;
-		  height: 80vh;
-		  border: 1px solid black;
-	  }
-	</style>
+    <title>SCADA Rain Gauge Data</title>
+  <style>
+    h1, p { text-align: center; }
+    select {
+      display: block;
+      margin: 0.25em auto;
+      font-size: 1.1em;
+    }
+    #map {
+      margin-left: 5%;
+      width: 90%;
+      height: 65vh;
+      border: 1px solid black;
+    }
+  </style>
   </head>
   <body>
-	  <h1>Select A Day to See Historical Rainfall Data for that day</h1>
-	  <p>White icons indicate no rain collected for that day, light and dark are for below and above average for the day, respectively.</p>
-	<select id="dates"></select>
-	<div id="map"></div>
+    <h1>Select A Day to See Historical Rainfall Data For That Day</h1>
+    <p>Each icon is one gauge (i.e. one collection point). White icons indicate no rain collected for that day, light and dark are for below and above average for the day, respectively.</p>
+    <select id="dates"></select><span id="daily-average"></span>
+    <div id="map"></div>
     <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBiZETdLPB9FKGF_TL-nGbN4yVheYzqLow"></script>
-	<script src="app.js"></script>
+    <script src="app.js"></script>
   </body>
 </html>

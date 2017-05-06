@@ -1,0 +1,103 @@
+RainGaugeID,Latitude,Longitude,County,City,Location
+BA-061,29.6980555555556,-99.5508333333333,Bandera,Vanderpool,On Hwy 187, approx 7.7 mi. North of Utopia
+BA-062,29.8130555555556,-99.5755555555556,Bandera,Sabinal Canyon,Lost Maples State Park
+BA-073,29.87056,-99.37722,Bandera,NULL,NULL
+BA-091,29.6733333333333,-98.9605555555556,Bandera,Pipe Creek,On Hwy 1283 at Red Bluff Creek bridge
+BA-093,29.6669444444444,-99.3313888888889,Bandera,Tarpley,On Hwy 470, 4.7 mi. west of Tarpley
+BA-108,29.83833,-99.28111,Bandera,NULL,NULL
+BE-124,29.6813888888889,-98.5225,Bexar,Camp Bullis,On Blanco Rd. approx 5.6 mi. North of Blanco Rd and 1604
+BE-125,29.74,-98.5130555555556,Bexar,Camp Bullis,On Blanco Rd. approx 9.5 mi. North of Blanco Rd and 1604
+BE-127,29.5125,-98.63278,Bexar,NULL,On Bandera Rd. (S.H. 16) at Leon Creek
+BE-128,29.6077777777778,-98.6522222222222,Bexar,Helotes,On Kyle Seale Parkway approx 2.2 mi. north of 1604
+BE-129,29.6730555555556,-98.6538888888889,Bexar,Van Raub,On Boerne Stage Rd. approx 2 mi. west of IH 10
+BE-130,29.4791666666667,-98.4327777777778,Bexar,NULL,Off Harry Wurzbach in Fort Sam Houston between water tower and National Cemetary
+BE-133,29.5872222222222,-98.5547222222222,Bexar,NULL,At Shavano Park Fire Dept on Military Drive
+BE-142,29.6163888888889,-98.7463888888889,Bexar,Helotes,On Hwy 16, approx 3.2 mi. west of San Antonio Ranch subdivision
+BL-151,30.0894444444444,-98.3063888888889,Blanco,Payton,Near Hwy 165, approx 10 mi. NE of Blanco
+BMA-105,29.6711111111111,-99.0055555555556,Bandera,NULL,NULL
+BMA-106,29.6036111111111,-98.93,Bandera,NULL,NULL
+CO-132,29.86778,-98.39833,Comal,NULL,No Physical Location
+CO-135,29.6258333333333,-98.3319444444444,Comal,Bat Cave,In Bracken on Bindseil Lane
+CO-138,29.7527777777778,-98.3972222222222,Comal,Anhalt,Approx 2.5 mi. east of intersection of Hwy 281 and Hwy 1863
+CO-152,29.96972,-98.2625,Comal,NULL,No Physical Location
+ED-063,29.6475,-100.095833333333,Edwards,Camp Wood,On Hwy 55, approx 2 mi. north of Camp Wood
+ED-064,30.0355555555556,-100.059166666667,Edwards,Devils Sinkhole,On Hwy 335, approx 3.5 mi south of Hwy 41 and Hwy 335 intersection
+ED-065,29.7630555555556,-100.103055555556,Edwards,Vance,On Hwy 55, 12.8 mi. north of intersection Hwy 55 and FM 335
+ED-066,29.9958333333333,-100.173333333333,Edwards,Cub Lake,Near FM 674, approx 20 mi. southwest of Rocksprings
+ED-075,30.04861,-100.1739,Edwards,NULL,NULL
+ED-076,0,0,Edwards,NULL,NULL
+HA-157,29.9730555555556,-97.9925,Hays,San Marcos North,On CR 222 approx 7.5 mi. Northwest of San Marcos
+HA-158,29.8777777777778,-97.94,Hays,San Marcos North,In San Marcos on Guadalupe St @ Purgatory Creek
+HA-160,29.9319444444444,-98.0761111111111,Hays,Wimberly,On Hwy 12 approx 1.1 mi east of intersection Hwy 12 and Hwy 32
+HA-162,30.0191666666667,-98.1386111111111,Hays,Rough Hollow,On Hwy 2325 approx 3.5 mi. northwest of Wimberly
+KE-068,29.92361,-98.85528,Kendall,NULL,No Physical Location
+KE-095,29.7705555555556,-98.7777777777778,Kendall,Ranger Creek,On Hwy 46 approx 3.9 mi west of intersection IH 10 and Hwy 46
+KE-096,29.8347222222222,-98.8305555555555,Kendall,Ranger Creek,Upper Cibolo Creek Rd near Second Crossing
+KE-141,29.785,-98.5997222222222,Kendall,Bergheim,On Hwy 3351 approx. 1000 ft intersection Hwy 46 and FM 3351
+KE-155,30.1061111111111,-98.5738888888889,Kendall,Crabapple Creek,Near RR 1888 and Mancius Rd intersection, 10 mi. west of Blanco
+KI-040,29.2480555555556,-100.201944444444,Kinney,Odlaw,On Hwy 90 west of Uvalde, 0.2 mi west of Hwy 90 and FM 1572
+KI-041,29.4422222222222,-100.14,Kinney,Salmon Peak,From intersection Hwy 90 and FM 334, go west 9 mi. on FM334
+KI-043,29.4133333333333,-100.260833333333,Kinney,Bracketville NE,From intersection Hwy 55 and FM 334, go west 14 mi. on FM 334
+ME-002,29.69,-99.4327777777778,Medina,Seco Pass,Hwy 173 south approx. .5 miles from Biry
+ME-003,29.34278,-99.11667,Medina,NULL,0.4 mi. south of intersection HwY 90 and Hwy 173
+ME-004,29.4038888888889,-99.1158333333333,Medina,Quihi,NULL
+ME-005,29.4511111111111,-99.195,Medina,Mustang Valley,On FM 462 approx 4.9 mi. north of Hondo
+ME-006,29.17806,-99.13722,Medina,NULL,At FM 462 and CR 642 approx 11 mi. south of Hondo
+ME-007,29.25944,-99.26083,Medina,NULL,On FM 2200 approx 5.5 mi. south of D"Hanis FM 2200 and Hwy 90
+ME-008,29.5047222222222,-99.1322222222222,Medina,Twin Hollow,On CR 241 approx 2.0 mi. west of intersection Hwy 173 and CR 241
+ME-009,29.37,-99.2875,Medina,DHanis,NULL
+ME-010,29.4386111111111,-99.2825,Medina,Sabinal NE,On FM 1796 approx 9.1 mi. north of D
+ME-011,29.5594444444444,-99.4058333333333,Medina,Flatrock Crossing,Flatrock Crossing approx 17 mi NNE of DHanis
+ME-015,29.11139,-99.22083,Medina,NULL,South Medina well on CR 731, 4 mi. south of FM 2200 and CR 731
+ME-094,29.305,-98.8275,Medina,NULL,FM 471 and CR 583 just west of LaCoste
+ME-097,29.5394444444444,-98.8169444444444,Medina,San Geronimo,Hood Ranch near San Geronimo Creek
+ME-098,29.84833,98.93944,Medina,NULL,On Hwy 90, 2.4 mi. west of Hwy 90 and Old Castroville rd.
+ME-099,29.6344444444444,-98.8125,Medina,Jack Mountain,Park Road 37 and SH 16N
+ME-100,29.54,-98.9344444444444,Medina,Medina Lake,NULL
+ME-101,29.5255555555556,-98.96,Medina,Medina Lake,On CR 265 south of Medina Lake dam
+ME-102,29.5672222222222,-99.0975,Medina,Timber Creek,On Hwy 173, 17 mi. north of Hondo
+ME-103,29.6036111111111,-99.2483333333333,Medina,Twin Hollow,On FM 462 approx 4.3 mi. south of Tarpley
+ME-104,29.5694444444444,-99.2469444444444,Medina,Twin Hollow,NULL
+ME-107,29.5347222222222,-98.9333333333333,Medina,Medina Lake,NULL
+RE-067,29.8466666666667,-99.6766666666667,Real,Circle Bluff,At scenic overlook on Hwy 83 approx 11 mi. north of Leakey
+RE-069,29.6780555555556,-99.7822222222222,Real,Leakey,From intersection Hwy 83 and walter white ranch rd. go west 1.5 mi.
+RE-070,29.8727777777778,-99.8727777777778,Real,Bee Cave Hollow,From intersection Hwy 336 and Fm 3235 go west 5.8 mi on FM 3235
+RE-071,29.9138888888889,-99.8027777777778,Real,Bee Cave Hollow,From intersection Hwy 41 and Hwy 336 go south 10.5 mi on Hwy 336
+RE-072,29.8413888888889,-99.9897222222222,Real,JoJan Van Camp,On Hwy 2631 approx 10 mi. northeast of Camp Wood on Hwy 55
+RE-074,30.04333,-99.89028,Real,NULL,NULL
+UV-012,29.31444,-99.47917,Uvalde,NULL,On Hwy 90 just west of Sabinal near bridge
+UV-013,29.4088888888889,-99.4975,Uvalde,Comanche Waterhole,On CR 330 approx 6 mi NNW of Sabinal
+UV-014,29.4911111111111,-99.4922222222222,Uvalde,Comanche Waterhole,NULL
+UV-016,29.4183333333333,-99.6091666666667,Uvalde,Trio,On Hwy 127 approx 12.4 mi. NW of Sabinal
+UV-017,29.11306,-99.45694,Uvalde,NULL,On FM 187 approx 1.9 mi north of the Zavala County line
+UV-018,29.6102777777778,-99.5305555555556,Uvalde,Utopia,By Utopia Hwy 187 and FM 1050 go west 0.4 mi on FM 1050
+UV-019,29.3263888888889,-99.6386111111111,Uvalde,Knippa,On Hwy 1049 approx 2.2 mi north of Knippa
+UV-031,29.11306,-99.45694,Uvalde,NULL,RR 187 and Nunley Lane , approx 8.3 mi south of Sabinal
+UV-032,29.3236111111111,-99.73,Uvalde,Knippa,On Hwy 2690, 1.2 mi east of intersection Hwy 83 and Hwy 2690
+UV-033,29.16917,-99.73972,Uvalde,NULL,On FM 140 approx 5 mi. SSW of Uvalde
+UV-034,29.2733333333333,-99.8630555555556,Uvalde,Sevenmile Hill,On Hwy 55, approx 6.6 mi NNW of Uvalde
+UV-035,29.505,-99.7811111111111,Uvalde,Reagan Wells,From intersection Hwy 83 and FM 1051, go west 3 mi. on FM 1051
+UV-036,29.23972,-100.0558,Uvalde,NULL,West of Uvalde, 2.4 mi. west of Hwy 90 and FM 1022
+UV-037,29.2133333333333,-99.9283333333333,Uvalde,Hacienda,On Hwy 90 approx 8.5 mi. west of Uvalde
+UV-039,29.4286111111111,-99.9972222222222,Uvalde,Sycamore Mountain,From Hwy 55 and Hwy 334 Laguna approx 1 mi. east on riverbank
+UV-042,29.54,-100.010277777778,Uvalde,Montel,Hwy 55 at Montell near cemetary
+UV-044,29.48889,-99.70556,Uvalde,Concan,Approx 1 mi. SE of intersection Hwy 83 and Hwy 127 (Concan)
+BL-156,30.09139,-98.41667,Blanco,Blanco,
+J17,NULL,NULL,Bexar,San Antonio,Ft. Sam Houston Army Base
+BLA-ET1_DiLeo Ranch 10788241,30.022,-98.215,NULL,NULL,NULL
+BLA-ET2_Halifax Ranch 10848860,30.026,-97.928,NULL,NULL,NULL
+BUL-ET1_Camp Bullis @ Salado 10848861,NULL,NULL,NULL,NULL,NULL
+BUL-ET2_Camp Bullis Well 10 10848858,NULL,NULL,NULL,NULL,NULL
+BUL-ET3_High Hill 10848862,NULL,NULL,NULL,NULL,NULL
+BUL-ET4_Acan 10848859,NULL,NULL,NULL,NULL,NULL
+CIB-ET1_Cibolo Nature Center 10788247,29.784,-99.709,NULL,NULL,NULL
+CIB-ET2_Bracken Cave Preserve 10788240,29.687,-98.351,NULL,NULL,NULL
+GUAD-ET1_Rebecca Springs 10788246,29.925,-98.373,NULL,NULL,NULL
+ME097-WS - San Geronimo 10788243,29.539,-98.817,NULL,NULL,NULL
+MED-ET1_BCRAGD Office 10788237,29.74,-99.081,NULL,NULL,NULL
+NUE-ET1_Durnell Ranch 10788238,29.589,-100.006,NULL,NULL,NULL
+NUE-ET2_Open V Ranch 10788239,29.353,-99.954,NULL,NULL,NULL
+SAB-ET1_Four Sisters Ranch 10788242,29.64,-99.587,NULL,NULL,NULL
+SECO-ET1_Seco Recharge Dam 10788244,29.517,-99.399,NULL,NULL,NULL
+BE-107,NULL,NULL,NULL,NULL,NULL
+HA-161,NULL,NULL,NULL,NULL,NULL
